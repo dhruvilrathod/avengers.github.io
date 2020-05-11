@@ -1,0 +1,274 @@
+body{
+    width: 100vw;
+    margin: 0px;
+    background-color: darkslategrey;
+}
+.home{
+    font-size: 2.5vw;
+    vertical-align: middle;
+    color:aliceblue;
+    background-color:darkslategrey;
+    border-right-width: 0px;
+    border-right-style: solid;
+    border-left: 0px;
+    border-bottom: 0px;
+    border-top: 0px;
+    height: 8vw;
+    width: 16vw;
+}
+#a{
+    display: flex;
+    align-items: center;
+    float: left;
+    background-color: black;
+    height: 8vw;
+    width: 100vw;
+}
+#img1{
+    margin-right: 3vw;
+    height: 7vw;
+    width: auto;  
+}
+.butn{
+    font-size: 2.5vw;
+    vertical-align: middle;
+    color: aliceblue;
+    background-color:black;
+    border-right-width: 0.1vw;
+    border-right-style: solid;
+    border-left: 0px;
+    border-bottom: 0px;
+    border-top: 0px;
+    height: 3vw;
+    width: 16vw;
+}
+button:hover{
+    cursor: pointer;
+}
+
+.bottom{
+    width: 100vw;
+    margin: 0px;
+    text-align: center;
+    color:aliceblue;
+    font-family: 'Lato', sans-serif;
+    background-color:rgb(24, 22, 22);
+}
+
+
+
+
+
+
+
+
+
+
+.txt{
+    margin-left: 5vw;
+    font-size: 8vw;
+    color:white;
+    font-family: 'Noto Sans JP', sans-serif;
+}
+.txt1{
+    margin-left: 6vw;
+    font-size: 3vw;
+    color:white;
+    font-family: 'Rubik', sans-serif;
+}
+
+
+
+
+
+
+
+
+
+
+.img2{
+    margin: auto;
+        display:block;
+        height:auto;
+        width: 45%;
+}
+.img3{
+        margin: auto;
+        display:block;
+        height:auto;
+        width: 70%;
+}
+.logo{
+    font-size: 2.5vw;
+    vertical-align: middle;
+    color:aliceblue;
+    background-color:darkslategrey;
+    border-right-width: 0px;
+    border-right-style: solid;
+    border-left: 0px;
+    border-bottom: 0px;
+    border-top: 0px;
+    height: 8vw;
+    width: 16vw;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.button1{
+    display:block;
+    margin:0 auto;
+    width: 20%;
+    height: auto;
+}
+.ring{
+    font-size: 2.5vw;
+    vertical-align: middle;
+    color:aliceblue;
+    background-color:darkslategrey;
+    border-right-width: 0px;
+    border-right-style: solid;
+    border-left: 0px;
+    border-bottom: 0px;
+    border-top: 0px;
+    height: 8vw;
+    width: 16vw;
+}
+.but{
+    width: 100%;
+    display: block;
+    margin: 0 auto;
+    color:aliceblue;
+    background-color: blue;
+    text-align: center;
+    text-decoration: dotted;
+    text-decoration-color: aliceblue;
+    padding: 10px 20px;
+    font-size: 25px;
+    border-color: blue;
+    border-radius: 5px;
+    }
+iframe{
+    width: 900px;
+    height: 500px;
+    margin: 0 auto;
+    display: block;
+    text-align: center;
+    }
+    
+
+
+
+
+
+
+
+
+
+
+
+.mov{
+    font-size: 2.5vw;
+    vertical-align: middle;
+    color:aliceblue;
+    background-color:darkslategrey;
+    border-right-width: 0px;
+    border-right-style: solid;
+    border-left: 0px;
+    border-bottom: 0px;
+    border-top: 0px;
+    height: 8vw;
+    width: 16vw;
+}
+table{
+    font-family: 'Rubik', sans-serif;
+    border-spacing: 0cm;
+    border-collapse:collapse;
+    margin: 0px auto;
+    border-color: black;
+    width: 100%;
+}
+th{
+    border: 2px;
+    padding: 16px;
+}
+td{
+    padding: 16px;
+}
+th.aa{
+    width: 10%;
+    text-align: center;
+    padding: 16px;
+}
+th.bb{
+    width: 50%;
+    text-align: center;
+    padding: 16px;
+}
+th.cc{
+    width: 40%;
+    text-align: center;
+    padding: 16px;
+}
+th.dd{
+    width: 10%;
+    text-align: center;
+    padding: 16px;
+}
+tr:nth-child(even) {
+
+    text-align: center;
+    background-color: lightgrey;
+}
+tr:nth-child(odd) {
+    text-align: center;
+    background-color: darkgrey;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.wp{
+    font-size: 2.5vw;
+    vertical-align: middle;
+    color:aliceblue;
+    background-color:darkslategrey;
+    border-right-width: 0px;
+    border-right-style: solid;
+    border-left: 0px;
+    border-bottom: 0px;
+    border-top: 0px;
+    height: 8vw;
+    width: 16vw;
+}
+.img4{
+    display:block;
+    margin: auto;
+    width: 30%;
+    height: auto;
+}
