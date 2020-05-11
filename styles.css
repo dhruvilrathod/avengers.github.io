@@ -125,13 +125,7 @@ button:hover{
 
 
 
-.button1{
-    display:block;
-    margin:0 auto;
-    width: 20%;
-    height: auto;
-}
-.ring{
+        .ring{
     font-size: 2.5vw;
     vertical-align: middle;
     color:aliceblue;
@@ -153,19 +147,26 @@ button:hover{
     text-align: center;
     text-decoration: dotted;
     text-decoration-color: aliceblue;
-    padding: 10px 20px;
-    font-size: 25px;
+    padding: 1vw 2vw;
+    font-size: 2vw;
     border-color: blue;
     border-radius: 5px;
     }
-iframe{
-    width: 900px;
-    height: 500px;
-    margin: 0 auto;
-    display: block;
-    text-align: center;
-    }
-    
+        iframe{
+            width: 70vw;
+            height: 40vw;
+            margin: 0 auto;
+            display: block;
+            text-align: center;
+        }
+        
+        
+        .button1{
+            display:block;
+            margin:0 auto;
+            width: 30vw;
+            height: auto;
+        }    
 
 
 
